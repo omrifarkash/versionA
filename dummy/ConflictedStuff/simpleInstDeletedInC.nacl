@@ -1,0 +1,4 @@
+dummy.SimpleObject simpleInstDeletedInC {
+  strField = "a"
+  _alias = "simpleInstDeletedInC_alias"
+}
